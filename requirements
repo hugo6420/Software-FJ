@@ -1,0 +1,30 @@
+SistemaSoftwareFJ/
+│
+├── main.py
+├── README.md
+├── requirements.txt
+│
+├── modelos/
+│   ├── __init__.py
+│   ├── entidad.py
+│   ├── cliente.py
+│   ├── servicio.py
+│   ├── sala.py
+│   ├── equipo.py
+│   ├── asesoria.py
+│   └── reserva.py
+│
+├── sistema/
+│   ├── __init__.py
+│   └── sistema.py
+│
+├── excepciones/
+│   ├── __init__.py
+│   └── excepciones.py
+│
+├── utilidades/
+│   ├── __init__.py
+│   └── logger.py
+│
+└── logs/
+    └── eventos.log
